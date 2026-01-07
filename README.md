@@ -91,8 +91,9 @@ Pendekatan ini memastikan chatbot tetap aman dan sesuai dengan prinsip layanan p
 ---
 
 ## TIM PENGEMBANG
-FADLY FERDIANSYAH KURNIA
-SALSABILA TASYA RAMADHANI SUWETY
+
+- FADLY FERDIANSYAH KURNIA
+- SALSABILA TASYA RAMADHANI SUWETY
 
 ---
 

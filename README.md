@@ -101,12 +101,16 @@ Pendekatan ini memastikan chatbot tetap aman dan sesuai dengan prinsip layanan p
 
 ---
 
+<img width="942" height="1006" alt="image" src="https://github.com/user-attachments/assets/766ff879-d80d-44e4-a66a-e17992ac33fd" />
+
 ## TIM PENGEMBANG
 
 - FADLY FERDIANSYAH KURNIA
 - SALSABILA TASYA RAMADHANI SUWETY
 
 ---
+
+
 
 
 
